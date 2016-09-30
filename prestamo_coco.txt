@@ -1,7 +1,8 @@
 
 Prestamo Coco
 
-Meses de alquiler Marzo, Abril, Mayo, Junio	S/. 2200
+Meses de alquiler Marzo, Abril, Mayo, Junio, Julio, Agosto	S/. 3300
 
 29/05/2016	S/. 700
 14/06/2016	S/. 100
+15/08/2016	S/. 600
